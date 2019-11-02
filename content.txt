@@ -1,0 +1,13 @@
+We can use this document to write the final content we want to insert into each page.
+
+Main Page Content:
+Insert a paragraph or so here.
+
+Community Content:
+Insert a paragraph or so here.
+
+Industry Content:
+Insert a paragraph or so here.
+
+Opportunities Content:
+Insert a paragraph or so here.
