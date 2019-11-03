@@ -6,6 +6,9 @@ Content:
 "Of the STEM disciplines, tech is the only one where the participation of women has
 actually decreased in the last 20 years." -Judith Spitz
 
+"In 1995, 37% of computer scientists were women. Today, it's only 24%...." -Girls Who
+Code
+
 Millions of girls in the United States don't have access to quality STEM education. The
 lack of resources that many schools face impedes girls' ability to pursue well-paying
 STEM careers.
@@ -45,7 +48,7 @@ Content:
 
 Teams with more gender diversity have better returns on investment.
 
-There are countless open tech jobs will workforce needs.
+There are countless open tech jobs with workforce needs.
 
 There need to be more women in leadership.
 
@@ -53,7 +56,6 @@ There need to be more women in leadership.
 numerous reasons: for employers, more diversity in tech means an expanded talent pool,
 improved team culture, and better products; for employees, tech jobs provide a path to
 high-paying, rewarding careers." -Code Fellows
-
 
 According to a recent study by Morgan Stanley (https://www.morganstanley.com/ideas/gender-diversity-investment-framework),
 more diverse workplaces deliver better returns and less volatility.
@@ -63,13 +65,17 @@ companies in the top quartile for gender diversity are 15% more like to outperfo
 industry medians.
 
 *Videos:
-  URL: https://youtu.be/8H3kUd5MjGI (copy and paste) "Here's Why Gender Diversity in Tech
+  url: https://youtu.be/8H3kUd5MjGI (copy and paste) "Here's Why Gender Diversity in Tech
   Matters (in Less Than 3 Minutes)"
-  URL: https://youtu.be/OOQfQwxCOF0 (copy and paste) "Why We Need Diversity in Technology"
+  url: https://youtu.be/OOQfQwxCOF0 (copy and paste) "Why We Need Diversity in Technology"
 ------------------------------------------------------------------------------------------
 Page: Volunteer Opportunities:
 Content:
 Volunteer Opportunities to Encourage the Current Generation:
+- Girls in Tech
+  url:
+  Volunteer Opportunities: Mentors****
+
 - She's Coding
   url: shescoding.org
   Volunteer Opportunities: Events, Tech Women Rising Conference, Open-Source Development,
@@ -108,13 +114,16 @@ Volunteer Opportunities to Encourage the Next Generation:
   
 - Girls Who Code
   url: girlswhocode.com
-  Girls Who Code's mission: 
-  
+  Girls Who Code's Mission: "Girls Who Code is on a mission to close the gender gap in 
+  technology and to change the image of what a programmer looks like and does.
+  Volunteer Opportunities: Start a Club
+  Girls Who Code Programs: Clubs (After school clubs for 3rd-5th and 6th-12th grade girls
+  to explore coding in a fun and friendly environment). 
   
 - Ignite Worldwide: Inspiring Girls Now in Technology Evolution
   url: igniteworldwide.org
-  Ignite's Mission: "Ignite's mission is to create opportunities to spark girls' excitement
-  about technology careers and inspire than to new possibilities."
+  Ignite's Mission: "Ignite's mission is to create opportunities to spark girls' 
+  excitement about technology careers and inspire than to new possibilities."
   Volunteer Opportunities: Panel Speaker (Share your story and speak about the challenges
   and successes of your STEM career).
   Ignite serves self-identifying girls and non-binary students in grades K-12 and college
@@ -123,6 +132,14 @@ Volunteer Opportunities to Encourage the Next Generation:
   
 - SPIN Girls
   url: stempaths.org/spin-girl
+  SPIN Girls Mission: "SPIN Girls provides fun, interactive, and high quality STEM
+  education to 8th-10th grade girls of color- empowering them with the skilly, confidence,
+  and connections to pursue careers in STEM.
+  Volunteer Opportunities: Mentors and Field Day Partners
+  SPIN Girls is open to female-identified students entering 8th grade in a King County
+  school. Girls of color with the potential for leadership and excellence are strongly
+  encouraged to apply. SPIN Girls comes together 10 times over the course of a school
+  year for Lab Days and Field Days.
   
 - Techbridge Girls
   url: techbridgegirls.org
