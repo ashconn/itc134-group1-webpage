@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #3FEEE6;
+    font-family: arial, sans-serif, serif, monospace;
+    background-attachment: fixed;
+}
+
+#wrapper{
+    margin: 0 auto;
+    width: 940px;
+    overflow: hidden;
+    padding: 20px;
+    background: #FC4445;
+    background: rgba(252, 68, 69, .8);
+}
+
+header{
+    margin-bottom: 20px;
+    background-color: #FC4445;
+    background: rgba(252, 68, 69, .8);
+}
+
+nav#primary{
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+nav#primary ul{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+nav#primary li{
+    list-style-type: none;
+    text-align: center;
+    width: 22%;
+    float: left;
+}
+
+nav#primary a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+nav#primary a:hover{
+    background: #55BCC9;
+    color: #fff;
+}
+
+.index nav#primary li:nth-child(1) a,
+.community nav#primary li:nth-child(2) a,
+.industry nav#primary li:nth-child(3) a,
+.opportunities nav#primary li:nth-child(4) a{
+   background: #55BCC9; 
+}
+
+h1{
+    text-align: center;
+    font-size: 2.488em;
+    margin-bottom: 20px;
+    line-height:1.2;
+}
+
+h2{
+    font-size: 2.074em;
+    margin-bottom: 8px;
+    line-height:1.2;
+}
+
+h3{
+    font-size: 1.728em;
+    margin-bottom: 8px;
+    line-height:1.2;
+    text-transform: uppercase;
+}
+
+h4{
+    font-size: 1.25em;
+    line-height: 1.15;
+}
+
+p{
+    margin-bottom: 20px;
+    line-height: 1.5;
+    font-size: 1em;
+}
+
+footer{
+    height: 50px;
+    line-height: 50px;
+    clear: both;
+    border-top: 1px dotted #666;
+}
+
+footer ul{
+    margin-left: 20px;
+}
+
+footer li{
+    list-style-type: none;
+    float: left;
+    color: black;
+    text-align: center;
+    width: 20%
+}
+
+footer a{
+    color: black;
+}
