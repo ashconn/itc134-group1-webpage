@@ -7,22 +7,22 @@ Content:
 actually decreased in the last 20 years." -Judith Spitz
 
 Millions of girls in the United States don't have access to quality STEM education. The
-lack of resources that many schools face impedes girls' ability to persue well-paying
+lack of resources that many schools face impedes girls' ability to pursue well-paying
 STEM careers.
 
-"Without diverstiy, technology will never reach its full potential. We need new people
+"Without diversity, technology will never reach its full potential. We need new people
 with new ideas creating it." -ChickTech:Seattle
 
 "Women, and especially minority women, are drastically underrepresented in STEM fields."
 - Techbridge Girls
 
-There are options to donate finances, but what is really needed it time. 
+There are options to donate finances, but what is really needed is time. 
 
 "Communities are built by strong leaders who want to make a difference." -ChickTech:
 Seattle
 
 *Perhaps a Graphic Images: Information for TechBridge Girls: 19% of U.S. girls are living
-in povery. 50% of low-wage workers are women of color. 11% of STEM jobs are held by women
+in poverty. 50% of low-wage workers are women of color. 11% of STEM jobs are held by women
 of color. 30% of STEM degrees are earned by women.
 
 *Footer URL: entrepreneur.com/article/289293
@@ -33,15 +33,34 @@ Content:
 
 Tech jobs are some of the best paying jobs.
 
+"Young women and non-binary students glimpse themselves as innovators and entrepreneurs
+through stories of successful women who work and live in their communities." - Ignite
+
+"Chatting to the girls about what you do helps normalize the idea that women do science,
+and helps them understand exactly what kind of tasks and jobs that can involve." -GEMS
+
 ------------------------------------------------------------------------------------------
 Impact on the Tech Industry
 Content:
 
-Teams will more gender diversity have better return on investment.
+Teams with more gender diversity have better returns on investment.
 
 There are countless open tech jobs will workforce needs.
 
 There need to be more women in leadership.
+
+"The market needs more women and underrepresented populations in the tech industry for
+numerous reasons: for employers, more diversity in tech means an expanded talent pool,
+improved team culture, and better products; for employees, tech jobs provide a path to
+high-paying, rewarding careers." -Code Fellows
+
+
+According to a recent study by Morgan Stanley (https://www.morganstanley.com/ideas/gender-diversity-investment-framework),
+more diverse workplaces deliver better returns and less volatility.
+
+According to McKinsey (https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters), 
+companies in the top quartile for gender diversity are 15% more like to outperform against 
+industry medians.
 
 *Videos:
   URL: https://youtu.be/8H3kUd5MjGI (copy and paste) "Here's Why Gender Diversity in Tech
@@ -50,21 +69,61 @@ There need to be more women in leadership.
 ------------------------------------------------------------------------------------------
 Page: Volunteer Opportunities:
 Content:
+Volunteer Opportunities to Encourage the Current Generation:
+- She's Coding
+  url: shescoding.org
+  Volunteer Opportunities: Events, Tech Women Rising Conference, Open-Source Development,
+  Organization, and Board
+  She's Coding is an open-source project developed in cooperation with the documentary
+  film: Code: Debugging the Gender Gap. She's Coding provides education, resources, and
+  actionable guidelines for anyone who wants to help bridge the gap in the field of
+  computer science.
 
+Volunteer Opportunities to Encourage the Next Generation:
 - ChickTech Seattle
   url: seattle.chictech.org
   ChickTech Seattle's Mission: "ChickTech is dedicates to retaining women in the
-  technology workforace and increasing the number of women and girls pursuing technology
+  technology workforce and increasing the number of women and girls pursuing technology
   based careers.
   Volunteer Opportunities: Mentors, Marketing, Fundraising
   ChickTech High School:
     ChickTech High School is a year-long series of opportunities for 100 young women in
     the Puget Sound Area, providing hands-on workshops and mentoring.
   ChickTech: K-8:
-    ChicTech facilitates hands-on, technologt education programs for the younger ChickTech
-    generation (for female identify youth from kindergarten to eight grade). The goal of
+    ChicTech facilitates hands-on, technology education programs for the younger ChickTech
+    generation (for female identify youth from kindergarten to eighth grade). The goal of
     every event is to give girls the opportunity to explore technology at an early age.
-    
+
+- GEMS (Girls in Engineering, Math, and Science) by Seattle Association of Women in 
+  Science
+  url: seattleawis.org/awis-events/gems
+  GEMS mission: The goal of the program is to encourage girls to maintain and broaden
+  their interest in STEM topics by providing hands-on activities, mentoring, field trips,
+  and information about a variety of fields.
+  Volunteer Opportunities: Mentors
+  GEMS is a science, technology, engineering, and math (STEM) enrichment program for 7th
+  and 8th grade girls currently attending a Seattle public school.
+  GEMS meetings are once a month from 6:30PM TO 8:30PM at two sites- one in South Seattle
+  and one in South Lake Union.
+  
+- Girls Who Code
+  url: girlswhocode.com
+  Girls Who Code's mission: 
+  
+  
+- Ignite Worldwide: Inspiring Girls Now in Technology Evolution
+  url: igniteworldwide.org
+  Ignite's Mission: "Ignite's mission is to create opportunities to spark girls' excitement
+  about technology careers and inspire than to new possibilities."
+  Volunteer Opportunities: Panel Speaker (Share your story and speak about the challenges
+  and successes of your STEM career).
+  Ignite serves self-identifying girls and non-binary students in grades K-12 and college
+  from all backgrounds by interacting with professional women in technology careers during
+  the school day.
+  
+- SPIN Girls
+  url: stempaths.org/spin-girl
+  
 - Techbridge Girls
   url: techbridgegirls.org
   Techbridge Girls' Mission: "The mission of Techbridge is to empower girls to realize
