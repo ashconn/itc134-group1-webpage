@@ -50,7 +50,7 @@ nav#primary a{
 
 nav#primary a:hover{
     background: #55BCC9;
-    color: #fff;
+    color: #eee;
 }
 
 .index nav#primary li:nth-child(1) a,
